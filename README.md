@@ -1,4 +1,7 @@
-# words-effect
+# words-Falling effect
+
+
+![image](https://github.com/user-attachments/assets/f449277d-66f2-480b-9f5c-313d8725dc18)
 
 
 1. HTML:- Create the layout to form an alphabet.
@@ -21,3 +24,4 @@ The majority of thing that you will learn by building this is of CSS property.
 ## About Perspective and its origin
 # The perspective property defines how far the object is away from the user. So, a lower value will result in a more intensive 3D effect than a higher value.
 # The perspective-origin property defines at from which position the user is looking at the 3D-positioned element.
+
